@@ -1,2 +1,2 @@
-# Gui_dictionary
-Là 1 ứng dụng nhỏ trên desktop viết bằng Python Tkinter có chức năng tra từ Anh-Việt, Việt-Anh, sử dụng khi có kết nối mạng
+# Gui_dictionary  | http://www.mediafire.com/file/74jyswg11c9dm31/ava.rar
+A small desktop application written in Python Tkinter has the function of English-Vietnamese, Vietnamese-English
